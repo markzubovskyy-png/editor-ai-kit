@@ -1,0 +1,26 @@
+{
+  "name": "editor-ai-kit",
+  "owner": {
+    "name": "Mark Zubovskyy",
+    "url": "https://github.com/markzubovskyy-png"
+  },
+  "metadata": {
+    "description": "Turn your computer into your team's editing brain. Claude Code skills for motion graphics and colour grading that your editors use over Telegram.",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "editor-ai-kit",
+      "source": "./plugins/editor-ai-kit",
+      "description": "Six skills for the founder's computer: brand style, motion ideas, motion render, colour grade, telegram setup and edit handoff. Editors text it on Telegram and get files back in your style.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Mark Zubovskyy",
+        "url": "https://github.com/markzubovskyy-png"
+      },
+      "homepage": "https://github.com/markzubovskyy-png/editor-ai-kit",
+      "license": "MIT",
+      "keywords": ["video-editing", "motion-graphics", "colour-grading", "telegram"]
+    }
+  ]
+}

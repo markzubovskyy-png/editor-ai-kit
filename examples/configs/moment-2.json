@@ -1,0 +1,33 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "style": "hand-drawn",
+  "graphics": [
+    {
+      "type": "text_callout",
+      "text": "just text it",
+      "x": 540,
+      "y": 600,
+      "start": 0.1,
+      "end": 1.8,
+      "size": 90,
+      "color": "primary"
+    },
+    {
+      "type": "arrow",
+      "from": [
+        380,
+        700
+      ],
+      "to": [
+        600,
+        1050
+      ],
+      "start": 0.3,
+      "end": 1.8,
+      "color": "secondary",
+      "width": 14
+    }
+  ]
+}

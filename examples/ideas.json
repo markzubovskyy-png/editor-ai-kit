@@ -1,0 +1,25 @@
+{
+  "ideas": [
+    {
+      "id": "moment-1",
+      "line": "Most founders try to edit with AI themselves. Don't.",
+      "timecode": 0.4,
+      "type": "text_callout",
+      "style_note": "big DON'T lands on the word, hand drawn underline under it"
+    },
+    {
+      "id": "moment-2",
+      "line": "Then your editors just text it.",
+      "timecode": 4.1,
+      "type": "arrow",
+      "style_note": "hand drawn arrow pointing at the phone in frame"
+    },
+    {
+      "id": "moment-3",
+      "line": "Five steps.",
+      "timecode": 6.0,
+      "type": "number_counter",
+      "style_note": "counts 1 to 5 inside a hand drawn circle"
+    }
+  ]
+}

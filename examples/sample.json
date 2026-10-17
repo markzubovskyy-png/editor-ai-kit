@@ -1,0 +1,75 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "style": "hand-drawn",
+  "graphics": [
+    {
+      "type": "circle",
+      "center": [
+        540,
+        760
+      ],
+      "radius": 260,
+      "start": 0.1,
+      "end": 4.6,
+      "draw": 1.0,
+      "color": "secondary",
+      "width": 14
+    },
+    {
+      "type": "number_counter",
+      "from": 1,
+      "to": 5,
+      "suffix": " steps",
+      "x": 540,
+      "y": 760,
+      "start": 0.2,
+      "end": 4.6,
+      "draw": 1.0,
+      "size": 110,
+      "color": "primary"
+    },
+    {
+      "type": "text_callout",
+      "text": "one brain",
+      "x": 540,
+      "y": 1150,
+      "start": 1.4,
+      "end": 4.6,
+      "size": 90,
+      "color": "primary"
+    },
+    {
+      "type": "underline",
+      "from": [
+        320,
+        1225
+      ],
+      "to": [
+        760,
+        1225
+      ],
+      "start": 1.7,
+      "end": 4.6,
+      "draw": 0.6,
+      "color": "secondary",
+      "width": 14
+    },
+    {
+      "type": "checklist_tick",
+      "items": [
+        "motion ideas",
+        "colour grade",
+        "edit handoff"
+      ],
+      "x": 270,
+      "y": 1380,
+      "start": 2.4,
+      "end": 4.6,
+      "draw": 1.5,
+      "size": 56,
+      "color": "primary"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "editor-ai-kit",
+  "description": "Turn your computer into your team's editing brain. Six skills (brand style, motion ideas, motion render, colour grade, telegram setup, edit handoff) that your editors use by texting a Telegram bot.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Mark Zubovskyy",
+    "url": "https://github.com/markzubovskyy-png"
+  },
+  "homepage": "https://github.com/markzubovskyy-png/editor-ai-kit",
+  "repository": "https://github.com/markzubovskyy-png/editor-ai-kit",
+  "license": "MIT",
+  "keywords": ["video-editing", "motion-graphics", "colour-grading", "telegram", "ffmpeg"]
+}

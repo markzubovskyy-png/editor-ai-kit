@@ -1,0 +1,12 @@
+render/
+graded/
+handoff/
+jobs/
+examples/output/
+*.mov
+*.webm
+*.zip
+*.pyc
+__pycache__/
+.pytest_cache/
+.DS_Store
